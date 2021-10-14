@@ -1,0 +1,4 @@
+Bundle-Name: Bus-details
+Bundle-SymbolicName: com.bus.mvc
+Bundle-Version: 1.0.0
+Export-Package: com.bus.mvc.constants
